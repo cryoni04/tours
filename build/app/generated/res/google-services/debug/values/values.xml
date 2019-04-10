@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="firebase_database_url" translatable="false">https://tours-tools.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">401221016863</string>
+    <string name="google_api_key" translatable="false">AIzaSyCU-Xf-t2ZLmS-zKLk5CmQBcw_1eJR8sfI</string>
+    <string name="google_app_id" translatable="false">1:401221016863:android:656ce8f890592e20</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCU-Xf-t2ZLmS-zKLk5CmQBcw_1eJR8sfI</string>
+    <string name="google_storage_bucket" translatable="false">tours-tools.appspot.com</string>
+    <string name="project_id" translatable="false">tours-tools</string>
+</resources>
